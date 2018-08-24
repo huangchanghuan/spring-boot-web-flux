@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="netty-web-flux" />
+        <module name="spring-boot-web-flux" />
+        <module name="web-flux" />
+        <module name="web-flux-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="netty-project" target="1.5" />
+      <module name="netty-web-flux" target="1.5" />
+      <module name="spring-boot-web-flux" target="1.5" />
+      <module name="spring-boot-webflux" target="1.8" />
+      <module name="web-flux" target="1.8" />
+      <module name="web-flux-client" target="1.8" />
+      <module name="webflux" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
