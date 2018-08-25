@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/netty-project.iml" filepath="$PROJECT_DIR$/netty-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack-quote/stack-quote.iml" filepath="$PROJECT_DIR$/stack-quote/stack-quote.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-flux/web-flux.iml" filepath="$PROJECT_DIR$/web-flux/web-flux.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-flux-client/web-flux-client.iml" filepath="$PROJECT_DIR$/web-flux-client/web-flux-client.iml" />
     </modules>

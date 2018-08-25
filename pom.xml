@@ -8,5 +8,11 @@
     <artifactId>netty-project</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        　　　 <!-- 模块都写在此处 -->
+        <module>web-flux-client</module>
+        <module>web-flux</module>
+        <module>stack-quote</module>
 
+    </modules>
 </project>
